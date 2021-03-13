@@ -1,0 +1,29 @@
+.header{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.camel{
+    background-color:teal;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.chameleon{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pigeon{
+    background-color: deeppink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.teddy{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-evenly;
+}
